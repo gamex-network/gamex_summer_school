@@ -28,7 +28,7 @@ The aim is to connect the probability models to the PyTorch code used to train, 
 
 ## Requirements
 
-Recommended software:
+Required software and packages:
 
 - Python 3.11+
 - PyTorch 2.10+
@@ -36,6 +36,13 @@ Recommended software:
 - Matplotlib
 - JupyterLab
 - Git
+
+Recommended softwares:
+
+- Git
+- VScode
+- Anaconda or Miniforge
+
 
 A **CPU is sufficient** for the practical. The current notebooks select CUDA when it is available and otherwise use CPU.
 
