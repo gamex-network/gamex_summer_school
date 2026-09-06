@@ -4,7 +4,9 @@
 **The University of Edinburgh · 8 September 2026**
 [GAMEX Summer School website](https://gamex-network.github.io/school/)
 
-This repository contains materials for a 90-minute pratical session on **neural generative modelling with PyTorch**. The practical compares two tractable generative approaches on the same synthetic Edinburgh Airport arrival-trajectory problem:
+This repository contains materials for a 90-minute pratical session on **Neural generative models in practice** with PyTorch by [**Johnny Myung Won Lee**](https://webhomes.maths.ed.ac.uk/~s1687781).
+ 
+The practical compares two tractable generative approaches on the same synthetic Edinburgh Airport arrival-trajectory problem:
 
 1. a **Autoregressive Transformer**, and
 2. a **Normalising Flow**.
