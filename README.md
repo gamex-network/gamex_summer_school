@@ -3,7 +3,7 @@
 **GAMEX — Edinburgh Summer School on Generative AI for Extremes**  
 **University of Edinburgh · 8 September 2026**
 
-This repository contains the practical materials for a 90-minute pratical session on **neural generative modelling with PyTorch**. The practical compares two tractable generative approaches on the same synthetic Edinburgh Airport arrival-trajectory problem:
+This repository contains materials for a 90-minute pratical session on **neural generative modelling with PyTorch**. The practical compares two tractable generative approaches on the same synthetic Edinburgh Airport arrival-trajectory problem:
 
 1. a **Autoregressive Transformer**, and
 2. a **Normalising Flow**.
@@ -19,8 +19,6 @@ The aim is to connect the probability models to the PyTorch code used to train, 
 | [`01_gamex_transformer.ipynb`](01_gamex_transformer.ipynb) | Autoregressive transformer | Discrete spatial tokens |
 | [`02_gamex_normalising_flows.ipynb`](02_gamex_normalising_flows.ipynb) | RealNVP normalising flow | Continuous 60-dimensional trajectories |
 | `handout.pdf` | Practical handout | Session overview, key equations and exercises |
-
-Both notebooks use the same underlying synthetic airport arrivals dataset, with each trajectory represented by **30 two-dimensional waypoints**.
 
 ---
 
