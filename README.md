@@ -85,12 +85,3 @@ Open the notebooks in order:
 ```
 
 Run the first code cell to confirm the installed PyTorch version and loaded compute device.
-
-
-## Session
-**Neural Generative Models in Practice**  
-Edinburgh Summer School on Generative AI for Extremes  
-University of Edinburgh  
-8 September 2026
-
-Repository: https://github.com/gamex-network/gamex_summer_school
