@@ -35,7 +35,6 @@ Required software and packages:
 - NumPy
 - Matplotlib
 - JupyterLab
-- Git
 
 Recommended softwares:
 
